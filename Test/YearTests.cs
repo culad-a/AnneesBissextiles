@@ -17,6 +17,11 @@ namespace AnneesBissextiles.Tests
             bool result = Year.Check(1900);
             Assert.False(result);
         }
-
+        [Fact]
+        public void TestYearDivisibleBy4ButNot100()
+        {
+            bool result = Year.Check(1996);
+            Assert.True(result);
+        }
     }
 }

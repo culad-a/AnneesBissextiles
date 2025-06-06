@@ -4,13 +4,17 @@
     {
         public static bool Check(int year)
         {
-            if (year == 2001)
+            if (year % 400 == 0)
+                return true;
+
+            if (year % 100 == 0)
                 return false;
 
-            if (year == 1900)
-                return false;
+            if (year % 4 == 0)
+                return true;
 
-            return true;
+            return false;
         }
+
     }
 }
