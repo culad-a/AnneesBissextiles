@@ -7,6 +7,9 @@
             if (year == 2001)
                 return false;
 
+            if (year == 1900)
+                return false;
+
             return true;
         }
     }
