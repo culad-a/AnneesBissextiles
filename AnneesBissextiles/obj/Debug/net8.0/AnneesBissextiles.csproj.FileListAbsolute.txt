@@ -1,0 +1,15 @@
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.AssemblyInfoInputs.cache
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.AssemblyInfo.cs
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.csproj.CoreCompileInputs.cache
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.sourcelink.json
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\bin\Debug\net8.0\AnneesBissextiles.exe
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\bin\Debug\net8.0\AnneesBissextiles.deps.json
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\bin\Debug\net8.0\AnneesBissextiles.runtimeconfig.json
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\bin\Debug\net8.0\AnneesBissextiles.dll
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\bin\Debug\net8.0\AnneesBissextiles.pdb
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.dll
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\refint\AnneesBissextiles.dll
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.pdb
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\AnneesBissextiles.genruntimeconfig.cache
+C:\Users\personne\Desktop\cs\AnneesBissextiles\AnneesBissextiles\obj\Debug\net8.0\ref\AnneesBissextiles.dll
